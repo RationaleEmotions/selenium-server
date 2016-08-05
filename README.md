@@ -14,3 +14,5 @@ You should be able to use this standalone jar just as how you would use the Sele
 download from www.seleniumhq.org for your standalone or grid needs.
 
 For more information on this please refer to my blog post https://rationaleemotions.wordpress.com/2016/08/05/disabling-trace-in-selenium/
+
+**This project currently makes use of Selenium 2.53.1**
